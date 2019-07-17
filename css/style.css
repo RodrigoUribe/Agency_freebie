@@ -1,0 +1,112 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#footer {
+  padding: 20px;
+}
+
+.container-father {
+  max-width: 100%;
+}
+
+.container-child {
+  width: 85%;
+  margin: auto !important;
+}
+
+.narvar-brand {
+  position: relative;
+  left: 10px;
+}
+
+#navbarMenuHeroA {
+  position: relative;
+  right: 50px;
+}
+
+.item {
+  font-family: calibri;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 5px;
+  color: #000000;
+}
+
+.position-logo {
+  position: absolute;
+  bottom: 12px;
+  left: 14px !important;
+  letter-spacing: 10px;
+  font-family: calibri;
+}
+
+.title-principal {
+
+    font-family: calibri;
+    font-size: 52px !important;
+    font-weight: 800 !important;
+    color: #000000;
+
+}
+
+.title-subprincipal {
+  font-family: Playfair Display;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 90px;
+  letter-spacing: 8.3px;
+  color: #000000;
+}
+
+.title {
+  font-weight: 700 !important;
+  color: #000000 !important;
+}
+
+.subtitle {
+  letter-spacing: 3px;
+  font-family: calibri;
+  font-size: 14px !important;
+  font-weight: 600 !important;
+}
+
+.final-subtitle {
+  font-size: 14px !important;
+  font-family: calibri;
+  font-weight: 400 !important;
+}
+
+.numbers {
+  letter-spacing: 3px;
+  font-family: Playfair Display;
+  font-style: italic;
+}
+
+.col {
+  display: block !important;
+  padding: 10px;
+  position: relative;
+  top: 40px;
+}
+
+.column-card {
+  background: rgb(190, 190, 190);
+}
+
+div.colums {
+  height: 300px !important;
+}
+
+table tr.row td {
+  padding: 5px 25px;
+  font-weight: 600 !important;
+  letter-spacing: 3px;
+}
+
+table {
+  margin: auto;
+}
